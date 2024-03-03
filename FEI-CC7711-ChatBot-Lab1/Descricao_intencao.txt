@@ -1,0 +1,15 @@
+[tag] -> "saudacao": Apresentação.
+[tag] -> "despedida": Despedida.
+[tag] -> "data_prova": Retorna data de prova.
+[tag] -> "perguntas": Preciso de alguma ajuda.
+[tag] -> "pesquisa": O Link do site em si do PIPE.
+[tag] -> "generico": Perguntas nao categorizadas.
+[tag] -> "inteligenciaArtificial": Perguntas sobre IA.
+[tag] -> "turismo": Perguntas sobre viajens e turismo.
+[tag] -> "entretenimento": Perguntas sobre jogos.
+[tag] -> "boteducado": Resposta de agradecimento.
+[tag] -> "avaliacao": Quem avalia o PIPE.
+[tag] -> "universidade": Se a universidade tem relação com o PIPE.
+[tag] -> "tempoMinimo": Qual o tempo minimo para fazer um PIPE.
+[tag] -> "proposta": Para submeter um PIPE.
+[tag] -> "fases": Quantas etapas tem um PIPE.
