@@ -1,3 +1,6 @@
+## Integrantes do Grupo
+- Gian Braga - RA: 22.121.054-5</br>
+- Lucca Costa - RA: 22.121.121-2</br>
 # [Video do ChatBot em Ação](https://youtu.be/MBl3BGkUve4)
 
 ## Descrição Intents
